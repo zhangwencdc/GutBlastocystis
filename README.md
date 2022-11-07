@@ -6,6 +6,12 @@ The script is writen by Perl.
 ## Author
 Wen Zhang, zhangwen@icdc.cn
 
+## Dependent Software
+Bowite2
+samtools
+bcftools
+Perl
+
 ## Usage
 perl Blastocystis_finder.pl -fq1 <fq1> 
   or
