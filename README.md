@@ -3,6 +3,8 @@
 ## Function
 This pipeline is working for identification of Blastocystis sp. subtype 3 in metagenomic samples.
 The script is writen by Perl.
+## Author
+Wen Zhang, zhangwen@icdc.cn
 
 ## Usage
 perl Blastocystis_finder.pl -fq1 <fq1> 
